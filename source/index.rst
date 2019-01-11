@@ -10,6 +10,7 @@ Welcome to AIO-3399C_DOC's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   kernel_build
 
 
 Indices and tables
